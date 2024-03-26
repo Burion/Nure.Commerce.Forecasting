@@ -1,0 +1,6 @@
+@Nure.Commerce.Forecasting_HostAddress = http://localhost:5197
+
+GET {{Nure.Commerce.Forecasting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
